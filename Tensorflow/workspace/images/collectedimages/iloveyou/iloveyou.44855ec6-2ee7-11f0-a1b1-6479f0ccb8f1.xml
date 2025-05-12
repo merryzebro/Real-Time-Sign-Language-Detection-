@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iloveyou</folder>
+	<filename>iloveyou.44855ec6-2ee7-11f0-a1b1-6479f0ccb8f1.jpg</filename>
+	<path>C:\Users\Merry\AIProj\Real-Time-Sign-Language-Detection-\Tensorflow\Tensorflow\workspace\images\collectedimages\iloveyou\iloveyou.44855ec6-2ee7-11f0-a1b1-6479f0ccb8f1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ILoveYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>177</ymin>
+			<xmax>517</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thanks</folder>
+	<filename>thanks.375763e9-2ee7-11f0-889b-6479f0ccb8f1.jpg</filename>
+	<path>C:\Users\Merry\AIProj\Real-Time-Sign-Language-Detection-\Tensorflow\Tensorflow\workspace\images\collectedimages\thanks\thanks.375763e9-2ee7-11f0-889b-6479f0ccb8f1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>270</ymin>
+			<xmax>512</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
